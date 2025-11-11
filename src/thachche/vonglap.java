@@ -15,6 +15,8 @@ public class vonglap {
 
 		System.out.println("Tong tu 1 den" + i + "la" + tong);
 
+		sc.close();
+
 	}
 
 }

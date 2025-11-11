@@ -13,8 +13,10 @@ public class vonglap2 {
 				System.out.println("So nguyen chan la: " + i);
 			}
 			i++;
-/
+
 		}
+
+		sc.close();
 	}
 
 }
